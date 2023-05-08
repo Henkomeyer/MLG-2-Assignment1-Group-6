@@ -24,5 +24,6 @@ Under "House Prices: Advanced Regression Techniques" on Kaggle, the housing data
 
 ## Data Modelling
 * Random Forest Regressor: 0.8855230238634435
+
 Between the actual values and the forecasted values, scatter plots were also seen. Overall, it was found that the model had a significant accuracy to predict the values.
 
