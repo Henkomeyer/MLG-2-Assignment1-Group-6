@@ -19,3 +19,10 @@ Under "House Prices: Advanced Regression Techniques" on Kaggle, the housing data
 
 ## Feature Engineering
 * All of the tests were run in a Jupyter notebook with a Python kernel.  Data loading, processing, and transformation were performed using the Pandas and NumPy libraries. To plot visuals, Matplotlib was utilised.
+* Pre-processing the data was crucial due to the big dataset. For example, since it is not necessary for prediction, the Id column was first removed from the features. 
+
+
+## Data Modelling
+* Random Forest Regressor: 0.8855230238634435
+Between the actual values and the forecasted values, scatter plots were also seen. Overall, it was found that the model had a significant accuracy to predict the values.
+
